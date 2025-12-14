@@ -119,8 +119,8 @@ FP-ASD/
 ## 🖥️ Screenshot Program
 
 * Main Menu
-  ![Main Menu](<img width="928" height="655" alt="image" src="https://github.com/user-attachments/assets/9c2839f9-bbf8-437f-968f-405434b61698" />)
-  
+ <img width="817" height="568" alt="image" src="https://github.com/user-attachments/assets/2d39fc2b-a9fe-45ce-a16b-48621245dd13" />
+
 * Fitur
   ![Fitur](<img width="843" height="518" alt="image" src="https://github.com/user-attachments/assets/4b3f6cfb-08d4-4a4c-9c80-8812de97a95d" />)
 
