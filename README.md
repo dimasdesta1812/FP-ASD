@@ -164,28 +164,20 @@ FP-ASD/
 
 5. D-6 : To-Do List: https://github.com/anggraitapr/ASDFPTODOLIST
 
-6. D-7 : Sistem Antrian IGD
-Link : https://github.com/WilliamHanantha/FP-ASD
+6. D-7 : Sistem Antrian IGD: https://github.com/WilliamHanantha/FP-ASD
 
-7. D-8 : Sistem Rekomendasi Jadwal Latihan dan Nutrisi Gym
-Link :https://github.com/tyr3x74/GymPlan
+7. D-8 : Sistem Rekomendasi Jadwal Latihan dan Nutrisi Gym: https://github.com/tyr3x74/GymPlan
 
-8. D-9 : Sistem Rekomendasi Teman Berdasarkan Mutual Friends
-Link :https://github.com/mariaelvina/FinalProjectD9
+8. D-9 : Sistem Rekomendasi Teman Berdasarkan Mutual Friends: https://github.com/mariaelvina/FinalProjectD9
 
-9. D-10 : Monster Chase
-Link : https://github.com/Aida41104/FPASD
+9. D-10 : Monster Chase: https://github.com/Aida41104/FPASD
 
-10. D-11 : Warehouse Management System
-Link : https://github.com/FasaBil/ASD-D11-Inventory-Management
+10. D-11 : Warehouse Management System: https://github.com/FasaBil/ASD-D11-Inventory-Management
 
-11. D-12 : Smart Traveling Planner
-Link : https://github.com/Dziky05/FP-ASD-KEL-13
+11. D-12 : Smart Traveling Planner: https://github.com/Dziky05/FP-ASD-KEL-13
 
-12. D-13 : Sistem Manajemen Inventaris Gudang dan Optimasi Rute Pengiriman
-Link : https://github.com/FashaAsshofa/Final-Project-ASD-D-Kelompok-13
+12. D-13 : Sistem Manajemen Inventaris Gudang dan Optimasi Rute Pengiriman: https://github.com/FashaAsshofa/Final-Project-ASD-D-Kelompok-13
 
-13. D-14 : Rekomendasi Film berbasis Graph
-Link : https://github.com/neutralcheeze/final-project-asd.git
+13. D-14 : Rekomendasi Film berbasis Graph: https://github.com/neutralcheeze/final-project-asd.git
 
 ---
