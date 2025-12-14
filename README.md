@@ -122,25 +122,25 @@ FP-ASD/
  <img width="817" height="568" alt="image" src="https://github.com/user-attachments/assets/2d39fc2b-a9fe-45ce-a16b-48621245dd13" />
 
 * Fitur
-  ![Fitur](<img width="843" height="518" alt="image" src="https://github.com/user-attachments/assets/4b3f6cfb-08d4-4a4c-9c80-8812de97a95d" />)
+  <img width="843" height="518" alt="image" src="https://github.com/user-attachments/assets/4b3f6cfb-08d4-4a4c-9c80-8812de97a95d" />
 
 * Fitur 1
-  ![Fitur 1](<img width="808" height="717" alt="image" src="https://github.com/user-attachments/assets/47d4841e-9c82-4cbe-b950-c6c00415f43b" />)
+  <img width="808" height="717" alt="image" src="https://github.com/user-attachments/assets/47d4841e-9c82-4cbe-b950-c6c00415f43b" />
 
 * Fitur 2
-  ![Fitur 2](<img width="1053" height="751" alt="image" src="https://github.com/user-attachments/assets/6685892e-2572-46e5-bf4d-9f60466e2b37" />)
+  <img width="1053" height="751" alt="image" src="https://github.com/user-attachments/assets/6685892e-2572-46e5-bf4d-9f60466e2b37" />
   
 * Fitur 3
-   ![Fitur 3](<img width="884" height="750" alt="image" src="https://github.com/user-attachments/assets/04c2bbcf-5fc2-4c0f-8d15-9ee10b7374ef" />)
+   <img width="884" height="750" alt="image" src="https://github.com/user-attachments/assets/04c2bbcf-5fc2-4c0f-8d15-9ee10b7374ef" />
   
 * Fitur 4
-   ![Fitur 4](<img width="883" height="611" alt="image" src="https://github.com/user-attachments/assets/4f7d8fd7-d0d4-4134-a755-fc2825d979e0" />)
+   <img width="883" height="611" alt="image" src="https://github.com/user-attachments/assets/4f7d8fd7-d0d4-4134-a755-fc2825d979e0" />
   
 * Fitur 5
-   ![Fitur 5](<img width="548" height="730" alt="image" src="https://github.com/user-attachments/assets/9385ce67-de7c-4b3e-b6fe-2b123177d0d8" />)
+   <img width="548" height="730" alt="image" src="https://github.com/user-attachments/assets/9385ce67-de7c-4b3e-b6fe-2b123177d0d8" />
   
 * Fitur 6
-   ![Fitur 6](<img width="851" height="562" alt="image" src="https://github.com/user-attachments/assets/816f8e21-2bbd-4375-921c-fcc69720db2b" />)
+   <img width="851" height="562" alt="image" src="https://github.com/user-attachments/assets/816f8e21-2bbd-4375-921c-fcc69720db2b" />
 
 ---
 
@@ -154,20 +154,15 @@ FP-ASD/
 
 ## 🔗 Referensi Proyek Kelompok Lain
 
-1. D-1 : Word Rank Guesser Game
-Link : https://github.com/NashiwaInsan/asdfinalproject
+1. D-1 : Word Rank Guesser Game: https://github.com/NashiwaInsan/asdfinalproject
 
-2. D-2 : Sistem Rekomendasi Event Berbasis Graph
-Link : https://github.com/dedyirama-id/kael-recommendation-system
+2. D-2 : Sistem Rekomendasi Event Berbasis Graph: https://github.com/dedyirama-id/kael-recommendation-system
 
-3. D-3 : Smart Traffic Light Simulator
-Link : https://github.com/Sudukk/FP_ASD_Traffic_Light_Simulation_FINAL
+3. D-3 : Smart Traffic Light Simulator: https://github.com/Sudukk/FP_ASD_Traffic_Light_Simulation_FINAL
 
-4. D-4 : HotelSeek - Rekomendasi Pemilihan Hotel
-Link : https://github.com/dreadf/hotelseek
+4. D-4 : HotelSeek - Rekomendasi Pemilihan Hotel: https://github.com/dreadf/hotelseek
 
-5. D-6 : To-Do List
-Link : https://github.com/anggraitapr/ASDFPTODOLIST
+5. D-6 : To-Do List: https://github.com/anggraitapr/ASDFPTODOLIST
 
 6. D-7 : Sistem Antrian IGD
 Link : https://github.com/WilliamHanantha/FP-ASD
